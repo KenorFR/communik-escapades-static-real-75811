@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beta-deer-29e.communik.site/sitemap.xml
